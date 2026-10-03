@@ -160,6 +160,8 @@ Generated from the first-line description of every proof by `scripts/specs-index
       - `index.md` (9 lines) — *Blueprint theme package and stylesheet-copy coverage.*
     - **clouds/**
       - `index.md` (9 lines) — *How the Clouds theme is checked against its design source.*
+    - **crt-amber/**
+      - `index.md` (9 lines) — *CRT Amber theme package and stylesheet-copy coverage.*
     - **crt-phosphor/**
       - `index.md` (9 lines) — *CRT Phosphor theme package and stylesheet-copy coverage.*
     - **nord/**

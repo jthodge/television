@@ -241,6 +241,11 @@ describe("bundled theme installation", () => {
         colorScheme: "dark",
         minimumVersion: "1.0.0",
       },
+      "crt-amber": {
+        version: "1.0.0",
+        colorScheme: "dark",
+        minimumVersion: "1.0.0",
+      },
       clouds: {
         version: "2.1.0",
         colorScheme: "light dark",
