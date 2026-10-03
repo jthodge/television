@@ -2,6 +2,8 @@
   minimumVersion: 1.0.2
 - id: blueprint
   minimumVersion: 1.0.0
+- id: crt-amber
+  minimumVersion: 1.0.0
 - id: crt-phosphor
   minimumVersion: 1.0.0
 - id: clouds

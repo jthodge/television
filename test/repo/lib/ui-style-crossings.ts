@@ -414,6 +414,12 @@ export const UI_STYLE_CROSSINGS: readonly UIStyleCrossing[] = [
   },
   {
     kind: "bundled-theme",
+    specSource: "specs/ui/themes/crt-amber/styles.css",
+    packageStylesheet: "packages/server/assets/themes/crt-amber/theme.css",
+    assets: [{ specSource: "specs/ui/themes/crt-amber/styles.css", productionAsset: "packages/server/assets/themes/crt-amber/theme.css" }],
+  },
+  {
+    kind: "bundled-theme",
     specSource: "specs/ui/themes/crt-phosphor/styles.css",
     packageStylesheet: "packages/server/assets/themes/crt-phosphor/theme.css",
     assets: [{ specSource: "specs/ui/themes/crt-phosphor/styles.css", productionAsset: "packages/server/assets/themes/crt-phosphor/theme.css" }],

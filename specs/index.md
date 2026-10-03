@@ -174,6 +174,8 @@ Generated from the first-line description of every spec by `scripts/specs-index.
       - `index.md` (9 lines) — *UI spec: the Blueprint theme — a fixed dark cyanotype engineering drawing.*
     - **clouds/**
       - `index.md` (9 lines) — *UI spec: the Clouds theme — a cool, light and airy treatment, minimal but distinct.*
+    - **crt-amber/**
+      - `index.md` (9 lines) — *UI spec: the CRT Amber theme — CRT Phosphor’s fixed dark terminal recolored with amber phosphor while preserving its CSS effects.*
     - **crt-phosphor/**
       - `index.md` (9 lines) — *UI spec: the CRT Phosphor theme — a fixed dark green terminal with CSS foreground effects.*
     - **nord/**
